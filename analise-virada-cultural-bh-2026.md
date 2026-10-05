@@ -1,9 +1,55 @@
-# Virada Cultural BH 2026 — análise comparativa assistida por LLM
+# Virada Cultural BH 2026 — Análise Comparativa Assistida por LLM
 
 **Autor:** Ramon Luz  
-**Contexto:** LIMEBH — GT Formação, Pesquisa, Editais e IA  
-**Status:** documento canônico do estudo  
-**Escopo de publicação:** análise textual; não reproduz formulários, anexos, links de Drive nem materiais visuais originais.
+**Contexto:** LIMEBH — GT Formação, Pesquisa, Editais e IA
+
+## Resumo executivo
+
+Este estudo compara as inscrições de **UnTraXX**, **Avulsa** e **Panca** na 11ª Virada Cultural de Belo Horizonte, em 2026. O objetivo é transformar edital, formulários e materiais técnicos em aprendizado para próximas inscrições da LIMEBH, sem substituir a decisão da comissão nem atribuir causas que os documentos não comprovam.
+
+- **UnTraXX:** a documentação examinada reúne proposta objetiva, classificação livre, rider e mapa claros e tempos de operação curtos. A inscrição foi pré-selecionada e chegou à contratação; a duração final foi ajustada posteriormente de 240 para 120 minutos. A análise indica forte compatibilidade documental com clareza e viabilidade, sem afirmar que esses fatores foram a causa da seleção.
+- **Avulsa:** a proposta apresenta identidade artística, materiais técnicos detalhados e possibilidade declarada de adaptação. A documentação também mostra maior demanda de infraestrutura e alguns campos que poderiam ser mais objetivos ou coerentes entre formulário e rider. O resultado conhecido é de não pré-seleção; isso não permite concluir insuficiência de mérito artístico nem apontar uma causa específica.
+- **Panca:** a proposta apresenta identidade artística e técnica reconhecível, com uma operação mais exigente e divergências observáveis entre formulário e material técnico. A LIMEBH informou uma questão documental sem identificar publicamente o item; essa informação deve ser lida separadamente do mérito artístico.
+
+**Ressalva metodológica.** Não houve acesso a notas individuais, pareceres, deliberações ou histórico de navegação dos avaliadores. Por isso, o documento diferencia fatos, inferências e hipóteses e não atribui causalidade à comissão.
+
+## Comparação rápida das três inscrições
+
+| Aspecto | UnTraXX | Avulsa | Panca |
+|---|---|---|---|
+| Proposta / formato | DJs, artistas visuais, música eletrônica, performance e linguagem visual | DJs, performers, música eletrônica, performance e culturas urbanas | DJs, performer, música eletrônica, performance e cultura queer |
+| Público / classificação | Juvenil, adulto e 60+ / livre | Adulto / 16+ | Adulto / 16+ |
+| Duração | 240 min. na inscrição; 120 min. na configuração contratada | “240 minutos negociáveis” | 240 min.; descrição menciona 2 a 4 h |
+| Montagem / passagem / desmontagem | 10 / 0 / 5 min. | 50 / 15 / 20 min. no rider | 60 / 15 / 60 min. |
+| Complexidade técnica | Mais enxuta: controladoras próprias, mesa de 4 canais ou entradas equivalentes e mapa compacto | Intermediária: três CDJs, mixer, retorno, P.A., dois praticáveis, iluminação, laser, fumaça e energia 220 V | Maior exigência: três CDJs, mixer, retorno, P.A., praticável, iluminação, laser, duas máquinas de fumaça, energia e estrutura adicional |
+| Principais pontos observáveis | Materiais diretos e organizados; menor janela declarada de transição; configuração ajustada em etapa posterior | Materiais técnicos detalhados; rider adaptável ao espaço; duração preenchida com texto em campo numérico | Divergências entre formulário e mapa; solicita recurso adicional ou espaço alternativo; questão documental relatada sem item identificado |
+| Resultado conhecido | Pré-selecionada e posteriormente contratada, segundo informação confirmada à LIMEBH | Não pré-selecionada, conforme resultado conhecido pela LIMEBH | Não avançou, segundo informação contextual recebida pela LIMEBH |
+
+## Leitura sintética por caso
+
+### UnTraXX
+
+**Síntese e forças observáveis.** *Toda Cidade Dança* combina DJs, artistas visuais, música eletrônica, performance e linguagem visual. Os materiais técnicos examinados descrevem uma configuração compacta, com equipamentos próprios de controladoria, tempos de 10 / 0 / 5 minutos e apresentação organizada das necessidades de palco.
+
+**Resultado e leitura curta.** A proposta foi pré-selecionada e posteriormente contratada, segundo informação confirmada à LIMEBH. A redução posterior de 240 para 120 minutos confirma que a configuração final pode ser negociada em etapas posteriores; não demonstra que a inscrição original estivesse incorreta nem que a adaptação explique o resultado.
+
+**Conclusão analítica e confiança.** Há forte compatibilidade documental observável com os critérios de clareza e viabilidade operacional. **Confiança alta** para a descrição factual dos materiais e do resultado conhecido; **confiança média** para a inferência de compatibilidade, que não equivale a causalidade da seleção.
+
+### Avulsa
+
+**Síntese e forças observáveis.** *Avulsa Virada* articula DJs, performers, música eletrônica, performance e culturas urbanas. A proposta apresenta descrição, sinopse, release, press kit e material técnico detalhado, além de indicar adaptação do rider ao espaço disponível.
+
+**Resultado e leitura curta.** O resultado conhecido é de não pré-seleção. A configuração inclui três CDJs, mixer, retorno, P.A., praticáveis, iluminação, laser, fumaça e energia 220 V, com tempos de 50 / 15 / 20 minutos no rider. A duração “240 minutos negociáveis” e a diferença entre o campo de desmontagem do formulário e o rider são pontos objetivos para aperfeiçoar futuras inscrições.
+
+**Conclusão analítica e confiança.** A proposta apresenta materiais artísticos e técnicos consistentes, mas uma operação que demanda maior coordenação e alguns campos com potencial de maior objetividade. **Confiança alta** para os fatos técnicos registrados; **confiança média** para a leitura de compatibilidade operacional. Essa leitura não explica oficialmente a não pré-seleção.
+
+### Panca
+
+**Síntese e forças observáveis.** *Virada na Panca* apresenta DJs, performer, música eletrônica, performance e cultura queer. O rider e o mapa descrevem três CDJs, mixer, retorno, P.A., praticável, iluminação, laser, duas máquinas de fumaça, energia e estrutura adicional, com tempos de 60 / 15 / 60 minutos.
+
+**Resultado e leitura curta.** A proposta não avançou. Foram identificadas divergências entre formulário e material técnico, como duração entre 2 e 4 horas na descrição versus 240 minutos no campo específico e necessidade de energia indicada no mapa, mas não no formulário. A LIMEBH informou uma questão documental, sem identificação do documento específico.
+
+**Conclusão analítica e confiança.** A proposta é analisável em suas dimensões artísticas e técnicas, enquanto documentação e coerência entre anexos exigem verificação própria. **Confiança alta** para as divergências documentais observáveis; **confiança baixa** para qualquer explicação do desfecho além da informação contextual de que houve uma questão documental.
 
 ## 1. Introdução
 
