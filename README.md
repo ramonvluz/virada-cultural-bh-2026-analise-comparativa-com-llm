@@ -10,7 +10,10 @@ Este repositório apresenta uma análise documental comparativa das inscrições
 
 O objetivo foi transformar edital, formulários, riders, mapas e materiais de apresentação em aprendizado prático para futuras inscrições culturais, sem atribuir à comissão uma causalidade que os documentos não comprovam.
 
-> A análise completa é o documento canônico do projeto: [ler a análise comparativa](analise-virada-cultural-bh-2026.md).
+## Leia a análise
+
+- [Análise completa em Markdown](analise-virada-cultural-bh-2026.md)
+- Relatório em PDF: será incluído manualmente como `Virada_Cultural_BH_2026_Analise_Comparativa.pdf`.
 
 ## Problema
 
