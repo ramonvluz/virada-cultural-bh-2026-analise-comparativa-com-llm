@@ -1,8 +1,7 @@
-# Análise documental assistida por LLM para editais culturais
+# Virada Cultural BH 2026 — Análise Comparativa Assistida por LLM
 
 **Autor:** Ramon Luz  
 **Contexto institucional:** trabalho realizado no âmbito da LIMEBH  
-**Nome previsto do repositório:** `analise-documental-llm-editais-culturais`
 
 ## Resumo
 
