@@ -13,7 +13,7 @@ O objetivo foi transformar edital, formulários, riders, mapas e materiais de ap
 ## Leia a análise
 
 - [Análise completa em Markdown](analise-virada-cultural-bh-2026.md)
-- Relatório em PDF: será incluído manualmente como `Virada_Cultural_BH_2026_Analise_Comparativa.pdf`.
+- [Relatório em PDF](Virada_Cultural_BH_2026_Analise_Comparativa.pdf)
 
 ## Problema
 
